@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Paul Justafort
+### Hello, World! 🌍 I'm Paul Justafort.
 
 With over a decade of experience in civil engineering, I'm currently diving into the fascinating world of data science, seeking to combine my background with modern computational techniques to solve real-world problems. While I'm still on my data science journey, I've already taken on several intriguing projects that align with my passion and expertise.
 
